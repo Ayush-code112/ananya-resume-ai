@@ -6,7 +6,7 @@
 -Here are some screenshots of our AI website:-
 
 ![Image Alt](https://github.com/Ayush-code112/ananya-resume-ai/blob/dd860d0485d11c1731935ec4f3eb99f84798d39a/screenshots/Screenshot%202025-04-19%20143604.png)
-![Image Alt](Image_URL)
+![Image Alt](https://github.com/Ayush-code112/ananya-resume-ai/blob/481995d5b1d403282078b8b25abb2de811693c96/screenshots/Screenshot%202025-04-19%20143825.png)
 ![Image Alt](Image_URL)
 
 
