@@ -51,3 +51,5 @@ This project is built with:
 -Lovable AI
 
 ## How can I deploy this project?
+We havve deployed this project throuugh github
+Visit site:- https://ayush-code112.github.io/ananya-resume-ai/
