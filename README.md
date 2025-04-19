@@ -10,10 +10,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Ayush-code112/ananya-resume-ai.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd ananya-resume-ai
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -51,6 +51,8 @@ This project is built with:
 -Lovable AI
 
 ## How can I deploy this project?
-We havve deployed this project throuugh github
-Visit site:- https://ayush-code112.github.io/ananya-resume-ai/
+
+
+-We have deployed this project throuugh github
+-Visit site:- https://ayush-code112.github.io/ananya-resume-ai/
 
