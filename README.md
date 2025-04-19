@@ -13,7 +13,7 @@
 ![Image Alt](https://github.com/Ayush-code112/ananya-resume-ai/blob/6bd8f86b8244527d7a06c5cdc75b87df1f4f555d/screenshots/Screenshot%202025-04-19%20155051.png)
 
 
-![Image Alt](https://github.com/Ayush-code112/ananya-resume-ai/blob/481995d5b1d403282078b8b25abb2de811693c96/screenshots/Screenshot%202025-04-19%20143825.png)
+![Image Alt]([https://github.com/Ayush-code112/ananya-resume-ai/blob/481995d5b1d403282078b8b25abb2de811693c96/screenshots/Screenshot%202025-04-19%20143825.png](https://github.com/Ayush-code112/ananya-resume-ai/blob/548b5d6bb9e440a27f12bedb64c32b97c0cb06f0/screenshots/Screenshot%202025-04-19%20155122.png))
 
 
 ![Image Alt](https://github.com/Ayush-code112/ananya-resume-ai/blob/481995d5b1d403282078b8b25abb2de811693c96/screenshots/Screenshot%202025-04-19%20143825.png)
