@@ -2,7 +2,12 @@
 
 
 -We have created this AI tool to help job hunters/seekers to find best possible job roles according to their resume.
+
+
 -Users only have to upload a photo of their resume and add some details about what kind of jobs they want.
+
+
+
 -Here are some screenshots of our AI website:-
 
 ![Image Alt](https://github.com/Ayush-code112/ananya-resume-ai/blob/dd860d0485d11c1731935ec4f3eb99f84798d39a/screenshots/Screenshot%202025-04-19%20143604.png)
@@ -13,6 +18,9 @@
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Github.
+
+
+
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -64,5 +72,8 @@ This project is built with:
 
 
 We have deployed this project throuugh github
+
+
+
 -Visit site:- https://ayush-code112.github.io/ananya-resume-ai/
 
