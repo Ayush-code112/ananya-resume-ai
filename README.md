@@ -1,7 +1,7 @@
 # Welcome to our Smart Resume & Job Match Tool project
 
 
--We have created this AI tool to help job hunters/seekers to find best possible job roles according to their resume.
+-We have created this AI tool to help job hunters/seekers to find best possible job roles according to their resume. 
 
 
 -Users only have to upload a photo of their resume and add some details about what kind of jobs they want.
