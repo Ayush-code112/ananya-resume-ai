@@ -53,6 +53,6 @@ This project is built with:
 ## How can I deploy this project?
 
 
--We have deployed this project throuugh github
+We have deployed this project throuugh github
 -Visit site:- https://ayush-code112.github.io/ananya-resume-ai/
 
