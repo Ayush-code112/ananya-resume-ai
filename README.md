@@ -3,6 +3,11 @@
 
 -We have created this AI tool to help job hunters/seekers to find best possible job roles according to their resume.
 -Users only have to upload a photo of their resume and add some details about what kind of jobs they want.
+-Here are some screenshots of our AI website:-
+
+![Image Alt](Image_URL)
+![Image Alt](Image_URL)
+![Image Alt](Image_URL)
 
 
 **Use your preferred IDE**
